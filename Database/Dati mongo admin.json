@@ -1,0 +1,34 @@
+[
+    {
+        "AdminID": 1,
+        "Name": "Riccardo",
+        "EmailAddress": "ric@adventure-works.com",
+        "PasswordHash": "L\/Rlwxzp4w7RWmEgXX+\/A7cXaePEPcp+KwQhl2fJL7w=",
+        "PasswordSalt": "1KjXYs4=",
+        "ModifiedDate": "2005-08-01T00:00:00"
+    },
+    {
+        "AdminID": 2,
+        "Name": "Simone",
+        "EmailAddress": "sim@adventure-works.com",
+        "PasswordHash": "YPdtRdvqeAhj6wyxEsFdshBDNXxkCXn+CRgbvJItknw=",
+        "PasswordSalt": "fs1ZGhY=",
+        "ModifiedDate": "2006-08-01T00:00:00"
+    },
+    {
+        "AdminID": 3,
+        "Name": "Antonio",
+        "EmailAddress": "ant@adventure-works.com",
+        "PasswordHash": "LNoK27abGQo48gGue3EBV\/UrlYSToV0\/s87dCRV7uJk=",
+        "PasswordSalt": "YTNH5Rw=",
+        "ModifiedDate": "2005-09-01T00:00:00"
+    },
+    {
+        "AdminID": 4,
+        "Name": "Ion",
+        "EmailAddress": "ion@adventure-works.com",
+        "PasswordHash": "ElzTpSNbUW1Ut+L5cWlfR7MF6nBZia8WpmGaQPjLOJA=",
+        "PasswordSalt": "nm7D5e4=",
+        "ModifiedDate": "2006-07-01T00:00:00"
+    }
+]
